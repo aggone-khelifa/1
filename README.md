@@ -339,7 +339,7 @@ Total crédits :
 // CODE SECRET
 // Le code par défaut est 1234
 
-let secret="1234";
+let secret="7762";
 
 
 function login(){
